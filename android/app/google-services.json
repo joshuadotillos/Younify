@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "477444438444",
+    "project_id": "arent-capstone",
+    "storage_bucket": "arent-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477444438444:android:879218a13fd56c5b49e209",
+        "android_client_info": {
+          "package_name": "com.example.arent_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477444438444-d9tb3vt47s6sq9slb5nqgfba45oeftr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0weSNtwi3q4RuXBuyNfc2yUES3-zxdRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477444438444-d9tb3vt47s6sq9slb5nqgfba45oeftr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477444438444:android:c7c3c3d2366a22a249e209",
+        "android_client_info": {
+          "package_name": "com.example.arentsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477444438444-d9tb3vt47s6sq9slb5nqgfba45oeftr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0weSNtwi3q4RuXBuyNfc2yUES3-zxdRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477444438444-d9tb3vt47s6sq9slb5nqgfba45oeftr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
